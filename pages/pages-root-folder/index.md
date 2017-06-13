@@ -15,7 +15,7 @@ widget1:
 widget2:
   title: "立体式切割机"
   url: '/litishiqiegeji/'
-  image: products/litishiqiegeji01.png
+  image: products/litishiqiegeji02.jpg
   text: '立体式切割机介绍 ... ...'
 widget3:
   title: "模板缝纫机"
