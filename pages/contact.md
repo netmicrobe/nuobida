@@ -1,12 +1,16 @@
 ---
 layout: page
-title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+title: "联系我们"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
-
- [1]: http://www.wufoo.com/
+<table>
+<tr>
+<td>咨询电话：</td>
+<td>400-000-0000</td>
+</tr>
+<tr>
+<td>QQ：</td>
+<td>12345678</td>
+</tr>
+</table>

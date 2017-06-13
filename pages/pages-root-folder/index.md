@@ -6,20 +6,20 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: header_homepage_13.jpg
 widget1:
   title: "激光裁床"
-  url: '/jiguangcaichuang/'
+  url: 'products/jiguangcaichuang/'
   image: products/jiguangcaichuang01.jpg
   text: '激光裁床简要介绍... ...'
 widget2:
   title: "立体式切割机"
-  url: '/litishiqiegeji/'
+  url: 'products/litishiqiegeji/'
   image: products/litishiqiegeji02.jpg
   text: '立体式切割机介绍 ... ...'
 widget3:
   title: "模板缝纫机"
-  url: '/mobanfengrenji/'
+  url: 'products/mobanfengrenji/'
   image: products/mobanfengrenji01.png
   text: '模板缝纫机介绍 ... ...'
 
