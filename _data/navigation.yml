@@ -3,15 +3,14 @@
   side: left
 
 - title: 企业介绍
-  url: "/getting-started/"
+  url: "/design/intro/"
   side: left
 
 - title: "最新动态"
-  url: "/design/"
   side: left
   dropdown:
   - title: "南京诺必达信息科技有限公司"
-    url: "/new/founding/"
+    url: "/design/founding/"
 
 - title: "产品介绍"
   url: "/headers/"
